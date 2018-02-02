@@ -38,7 +38,7 @@
 		28796DEE2024AC9100146122 = {
 			isa = PBXGroup;
 			children = (
-				28796DF92024AC9100146122 /* GestureRecognizerSample */,
+				28796DF92024AC9100146122 /* SpeechRecognizerSample */,
 				28796DF82024AC9100146122 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		28796DF92024AC9100146122 /* GestureRecognizerSample */ = {
+		28796DF92024AC9100146122 /* SpeechRecognizerSample */ = {
 			isa = PBXGroup;
 			children = (
 				28796DFA2024AC9100146122 /* AppDelegate.swift */,
@@ -61,7 +61,7 @@
 				28796E032024AC9100146122 /* LaunchScreen.storyboard */,
 				28796E062024AC9100146122 /* Info.plist */,
 			);
-			path = GestureRecognizerSample;
+			path = SpeechRecognizerSample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
