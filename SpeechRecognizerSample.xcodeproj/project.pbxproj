@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		28796DF72024AC9100146122 /* GestureRecognizerSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GestureRecognizerSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		28796DF72024AC9100146122 /* SpeechRecognizerSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeechRecognizerSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28796DFA2024AC9100146122 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28796DFC2024AC9100146122 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		28796DFF2024AC9100146122 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		28796DF82024AC9100146122 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				28796DF72024AC9100146122 /* GestureRecognizerSample.app */,
+				28796DF72024AC9100146122 /* SpeechRecognizerSample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		28796DF62024AC9100146122 /* GestureRecognizerSample */ = {
+		28796DF62024AC9100146122 /* SpeechRecognizerSample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 28796E092024AC9100146122 /* Build configuration list for PBXNativeTarget "GestureRecognizerSample" */;
+			buildConfigurationList = 28796E092024AC9100146122 /* Build configuration list for PBXNativeTarget "SpeechRecognizerSample" */;
 			buildPhases = (
 				28796DF32024AC9100146122 /* Sources */,
 				28796DF42024AC9100146122 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = GestureRecognizerSample;
+			name = SpeechRecognizerSample;
 			productName = GestureRecognizerSample;
-			productReference = 28796DF72024AC9100146122 /* GestureRecognizerSample.app */;
+			productReference = 28796DF72024AC9100146122 /* SpeechRecognizerSample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 28796DF22024AC9100146122 /* Build configuration list for PBXProject "GestureRecognizerSample" */;
+			buildConfigurationList = 28796DF22024AC9100146122 /* Build configuration list for PBXProject "SpeechRecognizerSample" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				28796DF62024AC9100146122 /* GestureRecognizerSample */,
+				28796DF62024AC9100146122 /* SpeechRecognizerSample */,
 			);
 		};
 /* End PBXProject section */
@@ -303,7 +303,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		28796DF22024AC9100146122 /* Build configuration list for PBXProject "GestureRecognizerSample" */ = {
+		28796DF22024AC9100146122 /* Build configuration list for PBXProject "SpeechRecognizerSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				28796E072024AC9100146122 /* Debug */,
@@ -312,7 +312,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		28796E092024AC9100146122 /* Build configuration list for PBXNativeTarget "GestureRecognizerSample" */ = {
+		28796E092024AC9100146122 /* Build configuration list for PBXNativeTarget "SpeechRecognizerSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				28796E0A2024AC9100146122 /* Debug */,
